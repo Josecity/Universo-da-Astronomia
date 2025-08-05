@@ -4,6 +4,10 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+div{
+    display: block;
+}
+
 .cor{
     color: blueviolet;
     text-align: center;
@@ -14,8 +18,7 @@ div + h2 {
     color: aqua;
 }
 
-.mp {
-
-    margin: 40px;
-    padding: 70px;
+.MP {
+    margin: 20px;
+    padding: 30px;
 }
